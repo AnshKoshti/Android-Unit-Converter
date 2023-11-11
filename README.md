@@ -15,7 +15,7 @@ This Android application provides a simple and user-friendly interface for conve
 - Millimeters
 
 Screenshots
-![Screenshot from 2023-11-11 15-20-42](https://github.com/AnshKoshti/Android-Unit-Converter/assets/93901947/a9b4a394-23f3-4716-9091-3c1a9303450f)
+<img src="https://github.com/AnshKoshti/Android-Unit-Converter/assets/93901947/a9b4a394-23f3-4716-9091-3c1a9303450f" width="400" height="600">
 
 ## How to Use
 - Enter a numeric value in the input field.
