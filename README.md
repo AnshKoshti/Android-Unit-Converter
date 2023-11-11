@@ -14,8 +14,8 @@ This Android application provides a simple and user-friendly interface for conve
 - Feet
 - Millimeters
 
-Screenshots
-<img src="https://github.com/AnshKoshti/Android-Unit-Converter/assets/93901947/a9b4a394-23f3-4716-9091-3c1a9303450f" width="400" height="600">
+- Screenshots
+<img src="https://github.com/AnshKoshti/Android-Unit-Converter/assets/93901947/a9b4a394-23f3-4716-9091-3c1a9303450f" width="400" height="800">
 
 ## How to Use
 - Enter a numeric value in the input field.
